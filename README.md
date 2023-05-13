@@ -1,4 +1,4 @@
-metaBalls:
+# Metaballs:
 
 In computer graphics, metaballs are organic-looking n-dimensional isosurfaces, characterised by their ability to meld together when in close proximity to create single, contiguous objects.
 
